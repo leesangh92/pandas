@@ -1,0 +1,17 @@
+html (Hyper Text Markup Language)
+
+row / field
+
+ndarray 배열
+series 1차원 배열, index / column
+dataframe 2차원 배열
+
+네트워크
+자료구조 : 배열, 링크드리스트, 트리, 그래프, 스택, 큐
+알고리즘
+운영체제
+데이터베이스
+
+프로그래밍 언어 : C언어, C++, Java, C#, Python, shell, android, ios, web-php, jsp
+
+컴퓨터 구조
